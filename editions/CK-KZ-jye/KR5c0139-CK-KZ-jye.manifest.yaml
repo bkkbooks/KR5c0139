@@ -1,0 +1,528 @@
+canonical_identifier: bkk:krp/KR5c0139/CK-KZ-jye/v1
+canonical_location: https://kanripo.org/bkk/KR5c0139/CK-KZ-jye/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 南華真經註疏
+  date: '2015-08-29 00:32:32.236438'
+  source:
+    repository: kanripo
+    path: KR5c0139
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+  edition:
+    short: CK-KZ-jye
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5c0139_000-CK-KZ-jye.yaml, hash: 'sha256:0ee7f934c4061adc94ee5c1f0e7c0ea7d6d05d5a6863a38f02d4040a8e8b39cb'}
+  - {seq: 1, filename: KR5c0139_001-CK-KZ-jye.yaml, hash: 'sha256:a20999678e88af20d7435a354c8c6f0455f321a8cdb1d4b0c6e92b92356aad77'}
+  - {seq: 2, filename: KR5c0139_002-CK-KZ-jye.yaml, hash: 'sha256:db7d34a7c1817a32982eec688486c3f36e013ce6bd5dd5ae188049754043b42b'}
+  - {seq: 3, filename: KR5c0139_003-CK-KZ-jye.yaml, hash: 'sha256:eb1aadb47c259f4cfd174629320b9104ba12c7e1b88159fff9055d38dcb9ee49'}
+  - {seq: 4, filename: KR5c0139_004-CK-KZ-jye.yaml, hash: 'sha256:4b6467dc21fc8e2af2c6c6d2d7c2b40d154c0d873b62de28e7deb2e72ab73d75'}
+  - {seq: 5, filename: KR5c0139_005-CK-KZ-jye.yaml, hash: 'sha256:6779dd248459fa8c777ecae8f885c5b94e9f52b12c39e0c0a0b024fe1ad641ca'}
+  - {seq: 6, filename: KR5c0139_006-CK-KZ-jye.yaml, hash: 'sha256:da74ef6b4828fc78d46eaafe3e59dbe6590986eaa9389d9cb3a67a9ed43dda0f'}
+  - {seq: 7, filename: KR5c0139_007-CK-KZ-jye.yaml, hash: 'sha256:449fd046f7677bcdb1a1d02b18b4d9e549bb072e113d57038a12f20f9e84368d'}
+  - {seq: 8, filename: KR5c0139_008-CK-KZ-jye.yaml, hash: 'sha256:a42a76b4b286a625708771361eebda5be32301cc7894610e1419cc86afb99491'}
+  - {seq: 9, filename: KR5c0139_009-CK-KZ-jye.yaml, hash: 'sha256:051f643bf4149db4356f2e0fb71a310877faf75fe48988bd1404a7577f2640f3'}
+  - {seq: 10, filename: KR5c0139_010-CK-KZ-jye.yaml, hash: 'sha256:4fb7896152f7a6045262901251ee225def5ad57b4aa5d584eaabb1cc029e1d0c'}
+  - {seq: 11, filename: KR5c0139_011-CK-KZ-jye.yaml, hash: 'sha256:21de14ea2892e5daee73bc6439f92232dbe2a965fec27a29ccb7bbdf789dfa77'}
+  - {seq: 12, filename: KR5c0139_012-CK-KZ-jye.yaml, hash: 'sha256:6b0fdc75bdbdbe4ea64410151a4014841592b96d8efd0e20a40768ce4b2a00b9'}
+  - {seq: 13, filename: KR5c0139_013-CK-KZ-jye.yaml, hash: 'sha256:54d6e743272398c7761db474a319dcaa88ae89441ae6317a3752d28e6be25ef2'}
+  - {seq: 14, filename: KR5c0139_014-CK-KZ-jye.yaml, hash: 'sha256:c475bb470907510b5dcf56c8275b2fcbf44749a15bec305e76c9f1f896c3c5f5'}
+  - {seq: 15, filename: KR5c0139_015-CK-KZ-jye.yaml, hash: 'sha256:91664c5dd32d5afee07e4804fd02e4ad7cfc68d032d8bfba3a246e45e92c191b'}
+  - {seq: 16, filename: KR5c0139_016-CK-KZ-jye.yaml, hash: 'sha256:41d0ae415fee9feae7894009fc5ebd4d906e3a5221a3686a6b96716f3ebf1396'}
+  - {seq: 17, filename: KR5c0139_017-CK-KZ-jye.yaml, hash: 'sha256:908e0f307a676e3d13a2ac1ffaddbd18b302b2a788952ff4c691cda218cb6f15'}
+  - {seq: 18, filename: KR5c0139_018-CK-KZ-jye.yaml, hash: 'sha256:b0fc8e37b0d931cdf33219940dd348ebcb0676e86daa5e65a8ab7c03a7807c85'}
+  - {seq: 19, filename: KR5c0139_019-CK-KZ-jye.yaml, hash: 'sha256:6562551514cdb8d8e6b156020dcffe7bf2562fd642a4c0b8ff88659e6d4306ac'}
+  - {seq: 20, filename: KR5c0139_020-CK-KZ-jye.yaml, hash: 'sha256:85e07905268853ca83fdb2ea8ec3420d710971d1a4f02c8380674fc42cf59845'}
+  - {seq: 21, filename: KR5c0139_021-CK-KZ-jye.yaml, hash: 'sha256:4c243a5532137ad45b7a0188b57dbd8e8a0e38e953d41d34e02918c0c9a8fcb6'}
+  - {seq: 22, filename: KR5c0139_022-CK-KZ-jye.yaml, hash: 'sha256:999a71c182939815ef5e6d85a49030b3dcea00917ac22b5e9acc9144e492b63a'}
+  - {seq: 23, filename: KR5c0139_023-CK-KZ-jye.yaml, hash: 'sha256:b7c2b8ba445d07c84d7fe7297aee0382e212cf1e087d2de5eac417116b380216'}
+  - {seq: 24, filename: KR5c0139_024-CK-KZ-jye.yaml, hash: 'sha256:a57b2a86ced80c161ec0633b8fe63c301d0320a2cefe4f76f98991dfd86d1d78'}
+  - {seq: 25, filename: KR5c0139_025-CK-KZ-jye.yaml, hash: 'sha256:09f2f048a2e0ffaff013d3d2df528dbc84b05851080dcff25d0866cba2c1f2f6'}
+  - {seq: 26, filename: KR5c0139_026-CK-KZ-jye.yaml, hash: 'sha256:9b0edfda32fa00c838c9d8f4468f99df79a49bbc960f63dfba13d12293964b1a'}
+  - {seq: 27, filename: KR5c0139_027-CK-KZ-jye.yaml, hash: 'sha256:0b591528cd8b795a43df91d7d52eba26ab0ea7dcce141cfab1db2b573874200f'}
+  - {seq: 28, filename: KR5c0139_028-CK-KZ-jye.yaml, hash: 'sha256:4be6e84f4361c2ed97895136e841da482133fc7a93dea61532b0e99c8dfacf2e'}
+  - {seq: 29, filename: KR5c0139_029-CK-KZ-jye.yaml, hash: 'sha256:be594546917d1727ee96473d372e195bee0fea22be05d208367a80792d3ac2b5'}
+  - {seq: 30, filename: KR5c0139_030-CK-KZ-jye.yaml, hash: 'sha256:7a17ce431210ea4b5187f04f62ff3f074b8d86b64d1893a04f8321fe555507c9'}
+  - {seq: 31, filename: KR5c0139_031-CK-KZ-jye.yaml, hash: 'sha256:c68918b26a9bbbf07ec203ce5ce92e5b2ed0a19cb0806c933b40d188fb935bfe'}
+  - {seq: 32, filename: KR5c0139_032-CK-KZ-jye.yaml, hash: 'sha256:09732bf0caea5c59caa380ab68bc47f404b407ed250629ba55a17dc904e818cb'}
+  - {seq: 33, filename: KR5c0139_033-CK-KZ-jye.yaml, hash: 'sha256:287c4380fa7b5390c45b69cf788b7048c8cf3a32cc05c8601ca58c96d74ef385'}
+  - {seq: 34, filename: KR5c0139_034-CK-KZ-jye.yaml, hash: 'sha256:edbd345ed07a3db55b3aaee901755ef2773b90bc712dedf9505699324c595334'}
+  - {seq: 35, filename: KR5c0139_035-CK-KZ-jye.yaml, hash: 'sha256:992e67b5b7ba5c044e7d8f40fc01caf3b5405f05cd19b2db94332644e8025fc9'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5c0139_000-CK-KZ-jye.markers.yaml, hash: 'sha256:34d514d64973a3c073bdc94b1986395982418bcc3228e9eb32f13ef04a554d08'}
+  - {seq: 1, role: markers, filename: assets/KR5c0139_001-CK-KZ-jye.markers.yaml, hash: 'sha256:99762cdf913f96bc646f8227dc2402fb6fadb73b30457d179b46f0035adeb502'}
+  - {seq: 2, role: markers, filename: assets/KR5c0139_002-CK-KZ-jye.markers.yaml, hash: 'sha256:93e42db66607204abe09b095985c6fed70a20a47769ae0c120d8e8e1b1095cd1'}
+  - {seq: 3, role: markers, filename: assets/KR5c0139_003-CK-KZ-jye.markers.yaml, hash: 'sha256:f1af9687808aab87dcaa02fa4d645cd328ab80729f0a9ece4800373ab24a60a7'}
+  - {seq: 4, role: markers, filename: assets/KR5c0139_004-CK-KZ-jye.markers.yaml, hash: 'sha256:677766f833d33e5225f83788b3a8ddbb7e6d35211205fc4d04d67f9df921f79b'}
+  - {seq: 5, role: markers, filename: assets/KR5c0139_005-CK-KZ-jye.markers.yaml, hash: 'sha256:a5eadac4eacfb172ac85c7c9fcf053f00f225193c2c312f1a45f01602c4a38b1'}
+  - {seq: 6, role: markers, filename: assets/KR5c0139_006-CK-KZ-jye.markers.yaml, hash: 'sha256:02e1c1a4c99d0553d05449b2c763e727732f455de7ebf0c2415d283097c86a17'}
+  - {seq: 7, role: markers, filename: assets/KR5c0139_007-CK-KZ-jye.markers.yaml, hash: 'sha256:afe5a215d0d91803cf41b8d8560add75f222c39ccdc45c19cff15eeb086cbba5'}
+  - {seq: 8, role: markers, filename: assets/KR5c0139_008-CK-KZ-jye.markers.yaml, hash: 'sha256:c05c8e3009e2c5d426af011663c0e24aa8e09fe56814e5b0e5eaf4daf7614235'}
+  - {seq: 9, role: markers, filename: assets/KR5c0139_009-CK-KZ-jye.markers.yaml, hash: 'sha256:633c41db7942d1677e3d46953260028ab6c348e587c38b3b5952673cc439200e'}
+  - {seq: 10, role: markers, filename: assets/KR5c0139_010-CK-KZ-jye.markers.yaml, hash: 'sha256:10fa6e1bf27def7b3ae0b9640bbba88b69f990ac9461f8ce06d77e5d11a0d669'}
+  - {seq: 11, role: markers, filename: assets/KR5c0139_011-CK-KZ-jye.markers.yaml, hash: 'sha256:abea6bf89a4a50c25c9ed00e1b01825640d318918ef3d51fc776b2954a028676'}
+  - {seq: 12, role: markers, filename: assets/KR5c0139_012-CK-KZ-jye.markers.yaml, hash: 'sha256:ac661568a0286130c5f44d6227c87b2f679175ec3a594d86816d0f6d58571b9b'}
+  - {seq: 13, role: markers, filename: assets/KR5c0139_013-CK-KZ-jye.markers.yaml, hash: 'sha256:cc384a82ef0b4d046afdfd564307603c52647107c97125b8ba50aeb68e7f7117'}
+  - {seq: 14, role: markers, filename: assets/KR5c0139_014-CK-KZ-jye.markers.yaml, hash: 'sha256:5df7bbb14599c5f99dc657ecc36fb9b9e3f98da5e59162648f38e3d795b2d12d'}
+  - {seq: 15, role: markers, filename: assets/KR5c0139_015-CK-KZ-jye.markers.yaml, hash: 'sha256:7ec79fcb0fb61e06b581394c1ae9a87a74a22c286d06b9b20ffc46b59b1c7477'}
+  - {seq: 16, role: markers, filename: assets/KR5c0139_016-CK-KZ-jye.markers.yaml, hash: 'sha256:57f14887891656172b6f2141765bd59c7d7a9c3a2f861e66bcbd5260e0d577f9'}
+  - {seq: 17, role: markers, filename: assets/KR5c0139_017-CK-KZ-jye.markers.yaml, hash: 'sha256:43146a71280188b3ef8d8ff135d7216dd236ca4ad33903b06889be4e3840cf24'}
+  - {seq: 18, role: markers, filename: assets/KR5c0139_018-CK-KZ-jye.markers.yaml, hash: 'sha256:e3374672d5145b2185d9df2b0f7acd4d5ed13fcc86daf9bd853fc29037e59903'}
+  - {seq: 19, role: markers, filename: assets/KR5c0139_019-CK-KZ-jye.markers.yaml, hash: 'sha256:f58c08dd1c25bdd397b9bcf0dda29070d2c51a342775c6085fba6375c0077842'}
+  - {seq: 20, role: markers, filename: assets/KR5c0139_020-CK-KZ-jye.markers.yaml, hash: 'sha256:b9b3720f94d5d4eecaff7bb955e5a058f53842b657e757c11c6e1bbdde8482de'}
+  - {seq: 21, role: markers, filename: assets/KR5c0139_021-CK-KZ-jye.markers.yaml, hash: 'sha256:8419d040e8a079ff33ec58e2b213b32d789b67e01c0b4994d01111f2eb11d12a'}
+  - {seq: 22, role: markers, filename: assets/KR5c0139_022-CK-KZ-jye.markers.yaml, hash: 'sha256:955ad24f345c38762d5782613b3f31880b98a770a5c664e5565d055fa323c5c4'}
+  - {seq: 23, role: markers, filename: assets/KR5c0139_023-CK-KZ-jye.markers.yaml, hash: 'sha256:061ea15d97f78347dd8f6d3c97c1b3cea0dccb72441a069e0ba4eccf9f0c78c3'}
+  - {seq: 24, role: markers, filename: assets/KR5c0139_024-CK-KZ-jye.markers.yaml, hash: 'sha256:498e897aa671a4bfc4b8038f40190399fff811caae8a184a081ee0a86e317f9d'}
+  - {seq: 25, role: markers, filename: assets/KR5c0139_025-CK-KZ-jye.markers.yaml, hash: 'sha256:9d5ea35e0e7583783e460d9d23e25b2467c58b732eb1fd7a170f5548de519df6'}
+  - {seq: 26, role: markers, filename: assets/KR5c0139_026-CK-KZ-jye.markers.yaml, hash: 'sha256:734020820b882af1667c608f62295f5ff6fc77c395279980fce858fad514da0f'}
+  - {seq: 27, role: markers, filename: assets/KR5c0139_027-CK-KZ-jye.markers.yaml, hash: 'sha256:0804ee82ee7eb5fd2c4cf34f1e24ef44b5eb0523dd1cef409050c281874b21bb'}
+  - {seq: 28, role: markers, filename: assets/KR5c0139_028-CK-KZ-jye.markers.yaml, hash: 'sha256:520d69dcfdeed47f61c4278d1f7d03cbd75439d61bdfbc0e08be2b7a879fd799'}
+  - {seq: 29, role: markers, filename: assets/KR5c0139_029-CK-KZ-jye.markers.yaml, hash: 'sha256:bbfef2a9797cd82938b7536ecb2b51f5d20b8a0f72b0ab9b8931fc9a94065f36'}
+  - {seq: 30, role: markers, filename: assets/KR5c0139_030-CK-KZ-jye.markers.yaml, hash: 'sha256:236a9d5c1d77959027bb64d3530604b6202310ae6d161313407029f148226421'}
+  - {seq: 31, role: markers, filename: assets/KR5c0139_031-CK-KZ-jye.markers.yaml, hash: 'sha256:ea73fb9a0340503fc4e84210aa31df40b020fb5b7fd5ee87c80870338eb37411'}
+  - {seq: 32, role: markers, filename: assets/KR5c0139_032-CK-KZ-jye.markers.yaml, hash: 'sha256:7ef5b0ce888f6137a3f8684ce7e14d558495ecb7530dba464326f1a658a268be'}
+  - {seq: 33, role: markers, filename: assets/KR5c0139_033-CK-KZ-jye.markers.yaml, hash: 'sha256:25f4c021fe6e8c6232cf565d28918c94504001b6d4722fbbb94c476396b96134'}
+  - {seq: 34, role: markers, filename: assets/KR5c0139_034-CK-KZ-jye.markers.yaml, hash: 'sha256:ed31ff8f44676da8c9b3a0004c7aa1c4c4d7d71a53c609038eb6933c6d3261ce'}
+  - {seq: 35, role: markers, filename: assets/KR5c0139_035-CK-KZ-jye.markers.yaml, hash: 'sha256:851e81422fc35fdf2ac92f66b62c5905984ddaa042b3cf2ee5e534e569737c21'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5c0139_CK-KZ-jye_000-h2
+    span:
+    - body
+    - 7
+    - 703
+  label: 南華眞經疏序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR5c0139_CK-KZ-jye_001-h2
+    span:
+    - body
+    - 0
+    - 0
+  label: 內篇
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5c0139_CK-KZ-jye_001-h3
+    span:
+    - body
+    - 0
+    - 10642
+  label: 逍遥遊第一(注夫小大雖殊而放於自得之場則¶物任其性事稱其能各當其分逍遥一也豈容勝負　　於其間哉)
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5c0139_CK-KZ-jye_002-h1
+    span:
+    - body
+    - 0
+    - 9323
+  label: ¶¶¶<md:KR5c0139_HFL_001-039b>¶¶¶¶¶¶¶¶¶¶¶<md:KR5c0139_HFL_002-001a>¶齊物論第二(夫自是而非彼美己而惡人物莫不¶皆然然故是非雖異而彼我均也)
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5c0139_CK-KZ_02p058a
+    span:
+    - body
+    - 0
+    - 12507
+  label: juan 003
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR5c0139_CK-KZ-jye_004-h1
+    span:
+    - body
+    - 0
+    - 4012
+  label: ¶¶¶¶¶¶<md:KR5c0139_HFL_004-001a>¶養生主第三(夫生以養存則養生者理之極也若¶乃養過其極以養傷生非養生之主也)
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR5c0139_CK-KZ-jye_005-h2
+    span:
+    - body
+    - 0
+    - 0
+  label: 內篇
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR5c0139_CK-KZ-jye_005-h3
+    span:
+    - body
+    - 0
+    - 14940
+  label: 人間世第四(與人羣者不得離人然人間之變故¶世世異宜唯無心而不自用者爲能隨變所適而不　　荷其累也)
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR5c0139_CK-KZ-jye_006-h1
+    span:
+    - body
+    - 0
+    - 10768
+  label: ¶<md:KR5c0139_HFL_006-001a>¶德充符第五(德充於內物應於外外內玄合信若¶符命而遺其形骸也)
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR5c0139_CK-KZ-jye_007-h1
+    span:
+    - body
+    - 0
+    - 7994
+  label: ¶<md:KR5c0139_HFL_007-001a>¶大宗師第六(雖天地之大萬物之富其所宗而師¶者無心也)
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR5c0139_CK-KZ_03p109a
+    span:
+    - body
+    - 0
+    - 10492
+  label: juan 008
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR5c0139_CK-KZ-jye_009-h1
+    span:
+    - body
+    - 0
+    - 5452
+  label: ¶¶<md:KR5c0139_HFL_008-042b>¶¶¶¶¶¶¶<md:KR5c0139_HFL_009-001a>¶應帝王第七(夫無心而任乎自化者應爲帝王也)
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR5c0139_CK-KZ-jye_010-h2
+    span:
+    - body
+    - 0
+    - 0
+  label: 外篇
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR5c0139_CK-KZ-jye_010-h3
+    span:
+    - body
+    - 0
+    - 6224
+  label: 騈拇第八
+  type: section
+  level: 3
+- ref:
+    seq: 11
+    marker_id: KR5c0139_CK-KZ-jye_011-h1
+    span:
+    - body
+    - 0
+    - 2763
+  label: ¶¶¶　¶¶¶¶¶¶<md:KR5c0139_HFL_010-024b>¶¶¶¶¶¶¶¶¶<md:KR5c0139_HFL_011-001a>¶馬蹄第九
+  type: section
+  level: 3
+- ref:
+    seq: 12
+    marker_id: KR5c0139_CK-KZ-jye_012-h1
+    span:
+    - body
+    - 0
+    - 6070
+  label: ¶¶¶¶¶¶<md:KR5c0139_HFL_012-001a>¶胠篋第十
+  type: section
+  level: 3
+- ref:
+    seq: 13
+    marker_id: KR5c0139_CK-KZ-jye_013-h1
+    span:
+    - body
+    - 0
+    - 9563
+  label: ¶¶¶¶¶¶<md:KR5c0139_HFL_013-001a>¶在宥第十一
+  type: section
+  level: 3
+- ref:
+    seq: 14
+    marker_id: KR5c0139_CK-KZ-jye_014-h1
+    span:
+    - body
+    - 0
+    - 14649
+  label: ¶¶¶¶¶¶¶¶<md:KR5c0139_HFL_013-042b>¶¶¶¶¶¶¶¶¶¶¶<md:KR5c0139_HFL_014-001a>¶¶<md:KR5c0139_HFL_013-042a>¶天地第十二
+  type: section
+  level: 3
+- ref:
+    seq: 15
+    marker_id: KR5c0139_CK-KZ-jye_015-h2
+    span:
+    - body
+    - 0
+    - 10306
+  label: 天道第十三
+  type: section
+  level: 3
+- ref:
+    seq: 16
+    marker_id: KR5c0139_CK-KZ-jye_016-h1
+    span:
+    - body
+    - 0
+    - 11099
+  label: ¶<md:KR5c0139_HFL_016-001a>¶天運第十四
+  type: section
+  level: 3
+- ref:
+    seq: 17
+    marker_id: KR5c0139_CK-KZ-jye_017-h1
+    span:
+    - body
+    - 0
+    - 3201
+  label: ¶¶¶¶¶¶<md:KR5c0139_HFL_016-047b>¶¶¶¶¶¶¶¶¶¶¶<md:KR5c0139_HFL_017-001a>¶刻意第十五
+  type: section
+  level: 3
+- ref:
+    seq: 18
+    marker_id: KR5c0139_CK-KZ-jye_018-h2
+    span:
+    - body
+    - 0
+    - 0
+  label: 外篇
+  type: section
+  level: 2
+- ref:
+    seq: 18
+    marker_id: KR5c0139_CK-KZ-jye_018-h3
+    span:
+    - body
+    - 0
+    - 3711
+  label: 繕性第十六
+  type: section
+  level: 3
+- ref:
+    seq: 19
+    marker_id: KR5c0139_CK-KZ-jye_019-h1
+    span:
+    - body
+    - 0
+    - 13962
+  label: ¶¶¶¶¶¶¶<md:KR5c0139_HFL_019-001a>¶秋水第十七
+  type: section
+  level: 3
+- ref:
+    seq: 20
+    marker_id: KR5c0139_CK-KZ-jye_020-h1
+    span:
+    - body
+    - 0
+    - 5054
+  label: ¶¶¶¶¶¶<md:KR5c0139_HFL_020-001a>¶至樂第十八
+  type: section
+  level: 3
+- ref:
+    seq: 21
+    marker_id: KR5c0139_CK-KZ-jye_021-h1
+    span:
+    - body
+    - 0
+    - 8584
+  label: ¶<md:KR5c0139_HFL_020-021b>¶¶¶¶¶¶¶¶¶¶¶<md:KR5c0139_HFL_021-001a>¶達生第十九
+  type: section
+  level: 3
+- ref:
+    seq: 22
+    marker_id: KR5c0139_CK-KZ-jye_022-h2
+    span:
+    - body
+    - 0
+    - 0
+  label: 外篇
+  type: section
+  level: 2
+- ref:
+    seq: 22
+    marker_id: KR5c0139_CK-KZ-jye_022-h3
+    span:
+    - body
+    - 0
+    - 7415
+  label: 山木第二十
+  type: section
+  level: 3
+- ref:
+    seq: 23
+    marker_id: KR5c0139_CK-KZ-jye_023-h1
+    span:
+    - body
+    - 0
+    - 7420
+  label: ¶¶¶¶¶¶<md:KR5c0139_HFL_023-001a>¶田子方第二十一
+  type: section
+  level: 3
+- ref:
+    seq: 24
+    marker_id: KR5c0139_CK-KZ-jye_024-h1
+    span:
+    - body
+    - 0
+    - 10432
+  label: ¶<md:KR5c0139_HFL_024-001a>¶知北遊第二十二
+  type: section
+  level: 3
+- ref:
+    seq: 25
+    marker_id: KR5c0139_CK-KZ-jye_025-h2
+    span:
+    - body
+    - 0
+    - 0
+  label: 雜篇
+  type: section
+  level: 2
+- ref:
+    seq: 25
+    marker_id: KR5c0139_CK-KZ-jye_025-h3
+    span:
+    - body
+    - 0
+    - 11042
+  label: 庚桑楚第二十三
+  type: section
+  level: 3
+- ref:
+    seq: 26
+    marker_id: KR5c0139_CK-KZ-jye_026-h1
+    span:
+    - body
+    - 0
+    - 13491
+  label: ¶<md:KR5c0139_HFL_026-001a>¶徐無鬼第二十四
+  type: section
+  level: 3
+- ref:
+    seq: 27
+    marker_id: KR5c0139_CK-KZ-jye_027-h1
+    span:
+    - body
+    - 0
+    - 11190
+  label: ¶¶¶¶¶¶<md:KR5c0139_HFL_027-001a>¶則陽第二十五
+  type: section
+  level: 3
+- ref:
+    seq: 28
+    marker_id: KR5c0139_CK-KZ-jye_028-h1
+    span:
+    - body
+    - 0
+    - 5904
+  label: ¶¶¶<md:KR5c0139_HFL_027-049b>¶¶¶¶¶¶¶¶¶¶¶<md:KR5c0139_HFL_028-001a>¶外物第二十六
+  type: section
+  level: 3
+- ref:
+    seq: 29
+    marker_id: KR5c0139_CK-KZ-jye_029-h2
+    span:
+    - body
+    - 0
+    - 0
+  label: 雜篇
+  type: section
+  level: 2
+- ref:
+    seq: 29
+    marker_id: KR5c0139_CK-KZ-jye_029-h3
+    span:
+    - body
+    - 0
+    - 4647
+  label: 寓言第二十七
+  type: section
+  level: 3
+- ref:
+    seq: 30
+    marker_id: KR5c0139_CK-KZ-jye_030-h1
+    span:
+    - body
+    - 0
+    - 5840
+  label: ¶¶<md:KR5c0139_HFL_029-021b>¶¶¶¶¶¶¶¶¶¶¶<md:KR5c0139_HFL_030-001a>¶讓王第二十八
+  type: section
+  level: 3
+- ref:
+    seq: 31
+    marker_id: KR5c0139_CK-KZ-jye_031-h1
+    span:
+    - body
+    - 0
+    - 6961
+  label: ¶¶¶　¶<md:KR5c0139_HFL_031-001a>¶盜跖第二十九
+  type: section
+  level: 3
+- ref:
+    seq: 32
+    marker_id: KR5c0139_CK-KZ-jye_032-h1
+    span:
+    - body
+    - 0
+    - 1572
+  label: ¶¶¶¶¶¶<md:KR5c0139_HFL_032-001a>¶說劍第三十
+  type: section
+  level: 3
+- ref:
+    seq: 33
+    marker_id: KR5c0139_CK-KZ-jye_033-h1
+    span:
+    - body
+    - 0
+    - 3338
+  label: ¶¶¶¶¶¶<md:KR5c0139_HFL_032-007b>¶¶¶¶¶¶¶¶¶¶¶<md:KR5c0139_HFL_033-001a>¶漁父第三十一
+  type: section
+  level: 3
+- ref:
+    seq: 34
+    marker_id: KR5c0139_CK-KZ-jye_034-h1
+    span:
+    - body
+    - 0
+    - 6599
+  label: ¶<md:KR5c0139_HFL_034-001a>¶列御寇第三十二
+  type: section
+  level: 3
+- ref:
+    seq: 35
+    marker_id: KR5c0139_CK-KZ-jye_035-h1
+    span:
+    - body
+    - 0
+    - 11348
+  label: ¶<md:KR5c0139_HFL_034-029b>¶¶¶¶¶¶¶¶¶¶¶<md:KR5c0139_HFL_035-001a>¶天下第三十三
+  type: section
+  level: 3
+hash: sha256:cd5ced1b4f380e4c97aa590f10d975671d9c480817d9690b47c0cff7d5b95297
