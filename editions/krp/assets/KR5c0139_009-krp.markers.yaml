@@ -29,6 +29,7 @@ markers:
   - {type: page-break, offset: 16, content: '', id: KR5c0139_CK-KZ_03p141a, image: JY132/CK-KZ_JY132_03p141a.png}
   - {type: page-break, offset: 16, content: '', id: KR5c0139_YP-C_09niuji-02-0141a, image: JY132/09niuji-02-0141a.png}
   - {type: punctuation, offset: 21, content: (, id: KR5c0139_krp_009-bkkpn1}
+  - {type: voice, offset: 21, length: 14, name: note, id: n1}
   - {type: punctuation, offset: 28, content: /, id: KR5c0139_krp_009-bkkpn2}
   - {type: punctuation, offset: 35, content: ), id: KR5c0139_krp_009-bkkpn3}
   - {type: 'kr:newline', offset: 35, content: '
@@ -3357,4 +3358,4 @@ markers:
 
       ', id: KR5c0139_krp_009-bkkkrnewl527}
   back: []
-hash: sha256:665090ef633b6c021ce9436de64650a851bd56241c8645e060540fc964e98b94
+hash: sha256:c3e9d92a449bb831e366e363fa965bfce60058cbad4c077f87299af000b4b346
